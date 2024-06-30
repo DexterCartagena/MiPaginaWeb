@@ -1,0 +1,52 @@
+.paginanosotros{
+  background-color:#dddddd;
+}
+
+.paginaservicios{
+  background-color: #dddddd;
+}
+
+.paginacontactos{
+  background-color:#dddddd;
+}
+
+.paginablog{
+  background-color:#dddddd;
+}
+
+.navegacion{
+  padding-bottom: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #000000;
+}
+
+.navegacion a:hover{
+  color: #00008b;
+}
+
+.navegacion{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 430px;
+  margin: auto;
+}
+
+h1{
+  text-align: center;
+}
+
+.imagen-paginas{
+  width: 100%;
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+}
+
+.enlace{
+  color: blue;
+}
